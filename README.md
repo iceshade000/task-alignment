@@ -2,7 +2,7 @@
 
 **GPT听不懂人话，防御性写作，不说人话，一站式解决方案。**
 
-A Codex skill for aligning on complex tasks, following through on approved work, and writing for the reader.
+An all-in-one solution for GPT misunderstanding you, writing defensively, and sounding unnatural.
 
 [中文](#中文说明) · [English](#english) · [MIT License](LICENSE)
 
@@ -25,6 +25,10 @@ A Codex skill for aligning on complex tasks, following through on approved work,
 适合目标需要澄清、交付分多个阶段，或要反复修改的任务，例如资料整理、报告写作、项目规划和软件开发。明确的小修改与直接问答不需要套用完整确认流程。
 
 **使用成本：**复杂新任务默认先确认需求，再分别确认整体计划和本阶段计划，因此开头会多几轮交流。进入已批准阶段后，应持续推进。你也可以明确要求合并或跳过某一确认点。
+
+### 中文版开头预览
+
+![中文版 SKILL.md 开头段落](skill-preview-zh-CN.jpg)
 
 ### 安装：选一个语言版本
 
@@ -103,6 +107,10 @@ Other skills I found online made no difference whether GPT read them or not. But
 Use it for ambiguous, staged, or revision-heavy tasks such as research synthesis, reports, project planning, and software development. Direct questions and clearly specified small edits do not need the full startup sequence.
 
 **Tradeoff:** A new complex task normally begins with three separate confirmations: requirements, the overall plan, and the current stage plan. This adds conversation upfront. Execution should then continue within the approved stage. You can explicitly request that a confirmation point be combined or skipped.
+
+### English edition preview
+
+![Opening paragraph of the English SKILL.md](skill-preview-en.jpg)
 
 ### Install one language edition
 
