@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Alignment and Staged Planning"
+  short_description: "Align requirements and outcomes before substantial execution"
+  default_prompt: "Use $task-alignment. First read the existing materials and confirm your understanding of the task. After that confirmation, present the overall plan and expected final deliverables. Once approved, present the next-step plan and expected stage deliverables. Obtain each confirmation separately before executing; do not combine or skip them on your own."
