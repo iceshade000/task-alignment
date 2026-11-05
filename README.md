@@ -28,7 +28,7 @@ An all-in-one solution for GPT misunderstanding you, writing defensively, and so
 
 ### 中文版开头预览
 
-![中文版 SKILL.md 开头段落](skill-preview-zh-CN.jpg?v=2)
+![中文版 SKILL.md 开头段落](skill-opening-zh-CN.jpg)
 
 ### 安装：选一个语言版本
 
@@ -110,7 +110,7 @@ Use it for ambiguous, staged, or revision-heavy tasks such as research synthesis
 
 ### English edition preview
 
-![Opening paragraph of the English SKILL.md](skill-preview-en.jpg?v=2)
+![Opening paragraph of the English SKILL.md](skill-opening-en.jpg)
 
 ### Install one language edition
 
