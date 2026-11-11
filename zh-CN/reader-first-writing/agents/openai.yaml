@@ -1,0 +1,4 @@
+interface:
+  display_name: "表达逻辑与读者顺序"
+  short_description: "按读者的问题组织各类表达，修正逻辑跳跃、重复绕述和证据错配"
+  default_prompt: "请使用 $reader-first-writing，从读者已有知识和当前问题出发组织或改写内容，补齐必要前提并删去重复绕述。"

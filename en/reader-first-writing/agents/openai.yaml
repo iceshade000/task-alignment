@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader-First Writing"
+  short_description: "Organize writing around readers and repair logical gaps"
+  default_prompt: "Use $reader-first-writing to organize or revise this content around the reader's existing knowledge and current question, supplying necessary premises and removing repetition."
