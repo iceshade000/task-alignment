@@ -8,7 +8,14 @@
 
 [中文版 skill](zh-CN/reader-first-writing/SKILL.md) · [English skill](en/reader-first-writing/SKILL.md)
 
+<details>
+<summary>查看 reader-first-writing 中文版截图</summary>
+
+<sub>以下为 SKILL.md 原文截图。</sub>
+
 ![reader-first-writing 中文版截图](reader-first-writing-zh.png)
+
+</details>
 
 ---
 
@@ -18,4 +25,11 @@
 
 网上找的其他skill给GPT看了和没看一样，不过我发现私人珍藏的上古版本用来进行任务对齐和规划的提示词意外的好用，估计是专注于理解用户说啥就没有上下文来自己发散了，大家可以试试。
 
+<details>
+<summary>查看 task-alignment 中文版截图</summary>
+
+<sub>以下为 SKILL.md 原文截图。</sub>
+
 ![中文](zh.png)
+
+</details>

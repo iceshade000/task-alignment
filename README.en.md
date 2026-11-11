@@ -8,7 +8,14 @@ Organizes writing around what readers ask and already know, reducing logical gap
 
 [English skill](en/reader-first-writing/SKILL.md) · [中文版 skill](zh-CN/reader-first-writing/SKILL.md)
 
+<details>
+<summary>View the reader-first-writing English screenshot</summary>
+
+<sub>The image below is a screenshot of the original SKILL.md.</sub>
+
 ![reader-first-writing English screenshot](reader-first-writing-en.png)
+
+</details>
 
 ---
 
@@ -18,4 +25,11 @@ Organizes writing around what readers ask and already know, reducing logical gap
 
 Other skills I found online made no difference whether GPT read them or not. But an ancient prompt for task alignment and planning from my private collection turned out to work surprisingly well. My guess is that focusing on understanding what the user is saying leaves it no context to wander off on its own. Give it a try.
 
+<details>
+<summary>View the task-alignment English screenshot</summary>
+
+<sub>The image below is a screenshot of the original SKILL.md.</sub>
+
 ![English](en.png)
+
+</details>
