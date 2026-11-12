@@ -44,7 +44,7 @@ When first introducing a term, institution, tool, option, or criterion, enable r
 - Use numbered steps for operations with a real sequence. Each step should give an actionable instruction and any necessary result. Do not replace essential actions with vague summaries such as “process the data” or “complete the setup.”
 - Use connected paragraphs for causal explanations and sustained arguments. Do not fragment a single idea under multiple tiny headings.
 - Remove repeated definitions, empty transitions, and self-justification that does not help understanding. State necessary limitations in terms of “what is missing, what it affects, and how to obtain it,” rather than piling up disclaimers.
-- Use “not X, but Y” only to correct a misconception the reader has expressed or that is genuinely present in context. Do not invent an opposing view.
+- Prioritize useful information in reader-facing text. Use affirmative wording to state the subject, scope, conditions, and actions directly, rather than guarding against imagined misunderstandings with negatives such as “do not interpret this as...,” “this cannot be equated with...,” or “not X, but Y.” Correct a misunderstanding specifically only when the reader has explicitly expressed it; resolve ordinary ambiguity by rewriting the original sentence. Preserve real limitations that affect actions and necessary facts. Do not invoke accuracy as a reason to add defensive wording that conveys no useful information.
 
 ## Let evidence support only what it actually establishes
 

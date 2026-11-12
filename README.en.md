@@ -2,6 +2,10 @@
 
 ## Update history
 
+### 2026-11-13 · Updated reader-first-writing
+
+Strengthened direct expression: state the subject, scope, conditions, and actions directly; correct misunderstandings only when readers explicitly raise them, reducing defensive wording aimed at imagined misunderstandings. Updated both language editions.
+
 ### 2026-11-12 · Added reader-first-writing
 
 Organizes writing around what readers ask and already know, reducing logical gaps, repetition, and mismatched evidence to make answers and articles easier to understand. Use it independently or alongside task-alignment.
