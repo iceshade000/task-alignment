@@ -2,6 +2,14 @@
 
 ## Update history
 
+### 2026-11-13 03:26 (UTC+08:00) · Updated reader-first-writing
+
+- Reorganize for the final audience, separate discussion history from the deliverable, and preserve the starting point and premises new readers need.
+- Limit unsolicited advice. Identify opinions, inferences, and recommendations before elaborating; when removing advice, remove its substance.
+- Reassess the whole structure when content is disorganized. Preserve necessary operations and dependencies when shortening, and clear outdated statements throughout after corrections.
+
+Updated both language editions.
+
 ### 2026-11-13 02:50 (UTC+08:00) · Updated reader-first-writing
 
 - Distinguish source facts from the author's recommendations. Preserve the original conditions, scope, and strength of requirements; do not replace facts readers need with advice.
