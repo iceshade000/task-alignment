@@ -12,6 +12,7 @@ Goal: Help readers understand why each passage appears, how it connects to what 
 Use existing context to determine the audience, what readers already know, the question to answer, and what they should gain. The purpose may be understanding, deciding, or acting, but also feeling, imagining, or appreciating. Do not turn every piece into an instruction manual.
 
 - For short answers, identify the central question and necessary premises, answer directly, then supply the explanation needed.
+- First determine whether readers need source facts, an explanation, a judgment, or a recommendation. When they need to understand an original text or existing rules, first report what the source actually says. When they need to choose an approach, provide evidence-based recommendations. Do not substitute arrangements the author considers reasonable for the facts readers are trying to establish.
 - For long pieces or structural rewrites, first make a brief internal outline. For each section, specify “reader's question → this section's answer → relationship to the surrounding content.” Delete, merge, or move later any section whose purpose cannot be explained.
 - When background is missing, use available material first. Ask only when the answer would materially change the content, tone, or conclusion. State reasonable minor assumptions and continue when appropriate.
 - The user's specified style, length, and creative intent take priority. Do not treat narrative suspense, rhetorical repetition, or artistic omission as information gaps in technical instructions.
@@ -30,9 +31,11 @@ When a relationship is unclear, investigate it or state what remains unknown. Do
 
 ## Introduce new material only when it serves a purpose
 
-When first introducing a term, institution, tool, option, or criterion, enable readers to answer: What is it? Why is it needed here? How does it relate to the current question? Explain only as much as the current understanding requires.
+Decide whether material belongs in the text before deciding how to explain it. Each piece of information should serve the understanding, judgment, action, or expressive effect needed for the current goal. Its presence in a source, numerical specificity, or technical relevance alone does not justify including it.
 
-- Explain necessary concepts where they appear; defer details needed later. Omit names, abbreviations, and background that serve no practical purpose.
+- Assess the cost of explanation. If explaining a detail requires many new concepts, first determine whether it affects the answer to the current question. Remove it if irrelevant; accurately summarize its effect if that is all readers need; place details needed only for actual operations in the relevant steps. Do not keep adding background to rescue unnecessary information or automatically move it to an appendix.
+- Explain necessary concepts where they appear so readers understand what they are, why they appear here, and how they relate to the current question. Preserve key conditions affecting conclusions or actions, and explain only to the depth currently needed.
+- Numbers, parameters, and examples must have a clear subject, basis of measurement, and practical purpose. Introduce a specific configuration or local case only when it answers the current question. If a value for the current subject is unknown, state what is missing and how to establish it; do not fill the gap with specific numbers from another subject.
 - When listing “several entry points” or “types of methods,” first explain what they lead to, how they are grouped, and how readers should choose. Do not imply that a partial list is exhaustive.
 - Use consistent names for the same concept and refer back briefly rather than redefining it in every section.
 - Headings should accurately preview the question answered or content provided. Do not use the author's organizational rationale, self-justification, or work log as a heading, such as “Why this tutorial introduces X.” For concrete tasks, use headings such as “Request access” or “Choose a way to obtain the data.” Question headings are appropriate when they address a question readers actually have.
@@ -50,6 +53,8 @@ When first introducing a term, institution, tool, option, or criterion, enable r
 
 When factual support is needed, internally distinguish source facts, the author's inferences, recommendations, and unknowns. Match wording to certainty. Do not present recommendations as official requirements or infer that a feature does not exist merely because the material does not mention it.
 
+- When readers need a source's conclusions, provide a faithful paraphrase or a necessary short quotation, with a locatable reference as required by the task. Preserve the original subject, conditions, scope, and strength of requirements. Neither turn recommendations into rules nor recast explicit rules as the author's suggestions.
+- Add the author's recommendations only when requested or genuinely useful to the current question, and explain their relationship to source facts. Even when labeled as recommendations, they cannot replace the original information that should be provided. Do not attribute unsupported steps, sequences, or conclusions to a source.
 - Citations must directly support adjacent claims. Check the original conditions, subjects, and scope; a page on a related topic is not a substitute for specific evidence.
 - When providing screenshots, charts, or evidence attachments, readers should be able to find the cited content in the corresponding material. Content on the original webpage but absent from the screenshot does not count as covered by the screenshot. Supply what is missing, use an accurate source, or narrow the claim.
 - When the user requests illustrations, explanations, or original links, provide them where concepts first appear and at key operations. Do not use a schematic as proof of an actual operation when real interface material is unavailable.
@@ -61,10 +66,10 @@ When factual support is needed, internally distinguish source facts, the author'
 Quickly check short answers before delivery; walk through long content section by section. Review using only knowledge already provided earlier in the text:
 
 1. **Question alignment:** What does this passage answer? Why does the reader need it now? If there is no answer, remove or relocate it.
-2. **Sufficient premises:** Are there unexplained concepts, abruptly introduced objects, or missing reasoning? Add the minimum necessary premise, not a whole section of unrelated background.
+2. **Sufficient premises:** Is the text hard to understand because necessary premises are missing or because irrelevant details were introduced? Add the minimum explanation for necessary content and remove irrelevant content, rather than expanding the text whenever confusion arises.
 3. **Accurate relationships:** Have parallel items been presented as sequential, choices as mandatory, correlation as causation, or permission as an achieved result? Correct the relationships and transitions.
 4. **Promises fulfilled:** If the heading promises instructions, can readers actually perform the operation? If it promises a comparison, are comparable dimensions provided? When information is insufficient, narrow the heading's promise and state what is missing.
 5. **Useful information:** Are there repeated definitions, roundabout explanations, or pointless descriptions of what the task is not? Preserve necessary content and remove repetition.
-6. **Matching evidence:** Do key facts agree with their citations? Does confident wording conceal anything unconfirmed?
+6. **Matching evidence:** Have the source facts readers need been replaced by the author's recommendations? Do key facts agree with their citations, and is the original strength of requirements preserved? Does confident wording conceal anything unconfirmed?
 
 When the user identifies a structural problem, fix its cause and check the overview, adjacent sections, visuals, cross-references, and agreed delivery format. Do not merely append an explanation to the faulty paragraph. Keep content consistent across formats without adding unrequested deliverables.

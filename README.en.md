@@ -2,6 +2,14 @@
 
 ## Update history
 
+### 2026-11-13 02:50 (UTC+08:00) · Updated reader-first-writing
+
+- Distinguish source facts from the author's recommendations. Preserve the original conditions, scope, and strength of requirements; do not replace facts readers need with advice.
+- Select information before explaining it. Remove irrelevant details instead of continually expanding the background to explain unnecessary material.
+- Keep numbers, parameters, and examples relevant to the current question, with a clear subject, measurement basis, and purpose. Do not fill gaps with values from another subject.
+
+Updated both language editions and the corresponding review checks.
+
 ### 2026-11-13 · Updated reader-first-writing
 
 Strengthened direct expression: state the subject, scope, conditions, and actions directly; correct misunderstandings only when readers explicitly raise them, reducing defensive wording aimed at imagined misunderstandings. Updated both language editions.
