@@ -2,6 +2,14 @@
 
 ## Update history
 
+### 2026-11-14 05:39 (UTC+08:00) · Added paper-reading
+
+Close-read papers through original excerpts and summaries of the authors' reasoning across five parts: task value, field status and objectives, methodological outputs, training, and experimental validation. Keep the authors' argument distinct from the reviewer's assessment.
+
+Available in both languages: the Chinese edition includes Chinese translations; the English edition uses English and translates only non-English passages into English.
+
+[English skill](en/paper-reading/SKILL.md) · [中文版 skill](zh-CN/paper-reading/SKILL.md)
+
 ### 2026-11-13 03:26 (UTC+08:00) · Updated reader-first-writing
 
 - Reorganize for the final audience, separate discussion history from the deliverable, and preserve the starting point and premises new readers need.
