@@ -1,4 +1,4 @@
 interface:
   display_name: "论文精读与调研"
-  short_description: "按原文、中文翻译和论述逻辑梳理论文的五部分内容，为复现与研究提供依据"
-  default_prompt: "使用 $paper-reading 调研这篇论文，按五部分呈现原文摘录、中文翻译和原文逻辑总结，并简要检查代码开源情况。"
+  short_description: "忠实梳理论文五部分的论证、方法与具体评价依据，支持逐篇阅读和专题比较"
+  default_prompt: "使用 $paper-reading 调研这些论文，按五部分保留作者论证，讲清数据、参考答案、计分与对照，附原文定位并核查公开资源；按需要组织逐篇阅读或专题比较。"

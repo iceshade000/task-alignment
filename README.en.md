@@ -2,6 +2,14 @@
 
 ## Update history
 
+### 2026-11-15 · Updated paper-reading
+
+- Keep excerpts and translations in source-checking notes while allowing coherent paraphrases in the final reading document; add reviewer assessments when requested.
+- Explain construction, training roles, and experimental evidence in greater detail, including test data, reference answers, comparisons, scoring, and result conditions.
+- Added guidance for multi-paper overviews, individual close readings, and focused comparisons, plus public-resource and delivery checks.
+
+Updated both skill editions and invocation prompts. The English edition defaults to English and translates non-English originals into English only when needed.
+
 ### 2026-11-14 05:39 (UTC+08:00) · Added paper-reading
 
 Close-read papers through original excerpts and summaries of the authors' reasoning across five parts: task value, field status and objectives, methodological outputs, training, and experimental validation. Keep the authors' argument distinct from the reviewer's assessment.

@@ -1,4 +1,4 @@
 interface:
   display_name: "Close Reading and Research Review"
-  short_description: "Review papers through excerpts and five-part argument analysis"
-  default_prompt: "Use $paper-reading to review this paper in English across the five parts, presenting original excerpts, English translations only for non-English passages, and summaries of the original argument. Briefly check whether the code has been released."
+  short_description: "Explain paper arguments, methods, and evaluation evidence"
+  default_prompt: "Use $paper-reading to review these papers in English across the five parts, preserving the authors' arguments and explaining data, reference answers, scoring, and comparisons. Provide precise source references, check public resources, and organize individual readings or focused comparisons as needed."
