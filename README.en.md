@@ -2,6 +2,10 @@
 
 ## Update history
 
+### 2026-11-17 · Updated reader-first-writing
+
+Require explanations of technical terms and abbreviations at first mention, including their meaning, purpose, and relevance; spelling out an abbreviation alone is insufficient. Use natural, concrete language and avoid invented terms, awkward combinations, and labels readers must guess at. Updated both language editions.
+
 ### 2026-11-15 · Updated paper-reading
 
 - Keep excerpts and translations in source-checking notes while allowing coherent paraphrases in the final reading document; add reviewer assessments when requested.
