@@ -2,6 +2,10 @@
 
 ## Update history
 
+### 2026-11-18 (America/New_York) · Updated innovation-discovery
+
+Added domain foundations: establish goals, consensus, objects of study, relationships, and evaluation criteria before locating important gaps. Distinguish the domain task from the proposed system, avoiding premature constraints from existing assets or anticipated solutions. Updated both skill editions and invocation prompts.
+
 ### 2026-11-19 · Added innovation-discovery
 
 Map key entities and information flows to find innovation opportunities in concrete gaps in understanding, processing, action, and feedback. Useful for finding differentiation, moving beyond similar proposals, or resolving repeated revisions without progress. Both editions include a full discussion case.

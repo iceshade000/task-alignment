@@ -1,4 +1,4 @@
 interface:
   display_name: "创新探索"
-  short_description: "梳理关键对象与信息流，从影响预期结果的缺口寻找创新方向"
-  default_prompt: "使用 $innovation-discovery，整理关键对象及其信息流，检查它们能否支持下一步并达成预期，再从具体缺口提出有价值的新方案。"
+  short_description: "先建立领域目标、共识、对象与评价基础，再从具体缺口寻找可验证的创新方向"
+  default_prompt: "使用 $innovation-discovery，先梳理领域目标、重要性共识、主要研究对象及评价依据，再分析对象关系和实际过程中的重要缺口，提出具体、可验证的新方案。"
