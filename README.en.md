@@ -2,6 +2,12 @@
 
 ## Update history
 
+### 2026-11-19 · Added innovation-discovery
+
+Map key entities and information flows to find innovation opportunities in concrete gaps in understanding, processing, action, and feedback. Useful for finding differentiation, moving beyond similar proposals, or resolving repeated revisions without progress. Both editions include a full discussion case.
+
+[English skill](en/innovation-discovery/SKILL.md) · [中文版 skill](zh-CN/innovation-discovery/SKILL.md)
+
 ### 2026-11-17 · Updated reader-first-writing
 
 Require explanations of technical terms and abbreviations at first mention, including their meaning, purpose, and relevance; spelling out an abbreviation alone is insufficient. Use natural, concrete language and avoid invented terms, awkward combinations, and labels readers must guess at. Updated both language editions.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Innovation Discovery"
+  short_description: "Find innovation opportunities through information-flow gaps"
+  default_prompt: "Use $innovation-discovery to map key entities and their information flows, check whether they support the next step and intended outcome, and propose valuable new approaches from concrete gaps."

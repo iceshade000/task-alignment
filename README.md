@@ -2,6 +2,12 @@
 
 ## 版本更新记录
 
+### 2026-11-19 · 新增 innovation-discovery
+
+梳理关键对象和信息流，从理解、处理、行动与反馈中的具体缺口寻找创新方向，适用于寻找差异化、方案同质化或反复修改仍无进展的讨论。中英文版均包含完整讨论案例。
+
+[中文版 skill](zh-CN/innovation-discovery/SKILL.md) · [English skill](en/innovation-discovery/SKILL.md)
+
 ### 2026-11-17 · 更新 reader-first-writing
 
 明确要求术语和缩写首次出现时解释含义、用途及与当前问题的关系，仅展开全称不算解释；使用自然、具体的表达，避免生造词、别扭组合和需要读者猜测的标签。中英文版本同步更新。
