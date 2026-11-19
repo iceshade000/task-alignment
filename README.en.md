@@ -4,6 +4,8 @@
 
 ### 2026-11-19 · Updated reader-first-writing
 
+> Author's note: If it doesn't work on GPT6.2 Astra, switch back to GPT6. 6.2 is too stubborn—it just won't follow the skill.
+
 - Added paragraph guidance: state the important point early, explain relationships between facts, and measure information by understanding gained.
 - Preserve source arguments rather than inventing motives or causes after compression.
 - Align complex material by dependencies in understanding; when one problematic sentence is identified, check and repair the same pattern throughout the authorized scope. Updated both language editions.
