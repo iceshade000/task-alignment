@@ -2,6 +2,12 @@
 
 ## Update history
 
+### 2026-11-19 · Updated reader-first-writing
+
+- Added paragraph guidance: state the important point early, explain relationships between facts, and measure information by understanding gained.
+- Preserve source arguments rather than inventing motives or causes after compression.
+- Align complex material by dependencies in understanding; when one problematic sentence is identified, check and repair the same pattern throughout the authorized scope. Updated both language editions.
+
 ### 2026-11-19 · Updated innovation-discovery
 
 - Start from domain consensus and audience needs, define valuable final outputs, then compare existing approaches and project assets to locate important gaps.
