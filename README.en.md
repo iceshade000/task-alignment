@@ -2,13 +2,13 @@
 
 ## Update history
 
-### 2026-11-19 (America/New_York) · Updated innovation-discovery
+### 2026-11-19 · Updated innovation-discovery
 
 - Start from domain consensus and audience needs, define valuable final outputs, then compare existing approaches and project assets to locate important gaps.
 - Actively compare alternatives and converge on a few coherent capabilities and selling points, linked to concrete design, strong comparisons, and testable outcomes.
 - Added audience-focused selling-point guidance and independent revision checks. Updated both editions and invocation prompts; removed the old discussion case no longer included in the source skill.
 
-### 2026-11-18 (America/New_York) · Updated innovation-discovery
+### 2026-11-18 · Updated innovation-discovery
 
 Added domain foundations: establish goals, consensus, objects of study, relationships, and evaluation criteria before locating important gaps. Distinguish the domain task from the proposed system, avoiding premature constraints from existing assets or anticipated solutions. Updated both skill editions and invocation prompts.
 
@@ -30,7 +30,7 @@ Require explanations of technical terms and abbreviations at first mention, incl
 
 Updated both skill editions and invocation prompts. The English edition defaults to English and translates non-English originals into English only when needed.
 
-### 2026-11-14 05:39 (UTC+08:00) · Added paper-reading
+### 2026-11-14 · Added paper-reading
 
 Close-read papers through original excerpts and summaries of the authors' reasoning across five parts: task value, field status and objectives, methodological outputs, training, and experimental validation. Keep the authors' argument distinct from the reviewer's assessment.
 
@@ -38,7 +38,7 @@ Available in both languages: the Chinese edition includes Chinese translations; 
 
 [English skill](en/paper-reading/SKILL.md) · [中文版 skill](zh-CN/paper-reading/SKILL.md)
 
-### 2026-11-13 03:26 (UTC+08:00) · Updated reader-first-writing
+### 2026-11-13 · Updated reader-first-writing
 
 - Reorganize for the final audience, separate discussion history from the deliverable, and preserve the starting point and premises new readers need.
 - Limit unsolicited advice. Identify opinions, inferences, and recommendations before elaborating; when removing advice, remove its substance.
@@ -46,7 +46,7 @@ Available in both languages: the Chinese edition includes Chinese translations; 
 
 Updated both language editions.
 
-### 2026-11-13 02:50 (UTC+08:00) · Updated reader-first-writing
+### 2026-11-13 · Updated reader-first-writing
 
 - Distinguish source facts from the author's recommendations. Preserve the original conditions, scope, and strength of requirements; do not replace facts readers need with advice.
 - Select information before explaining it. Remove irrelevant details instead of continually expanding the background to explain unnecessary material.
