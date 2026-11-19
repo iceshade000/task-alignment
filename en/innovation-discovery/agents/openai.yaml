@@ -1,4 +1,4 @@
 interface:
   display_name: "Innovation Discovery"
-  short_description: "Ground testable innovations in domain knowledge and concrete gaps"
-  default_prompt: "Use $innovation-discovery to first map domain goals, consensus on importance, main objects of study, and evaluation criteria, then analyze important gaps in relationships and actual processes to propose concrete, testable approaches."
+  short_description: "Define valuable outputs and testable core selling points"
+  default_prompt: "Use $innovation-discovery with existing domain research, audience needs, and project assets to define the most valuable final outputs, independently compare alternatives, and distill a few coherent core selling points with corresponding design and validation approaches."

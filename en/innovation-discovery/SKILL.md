@@ -1,89 +1,115 @@
 ---
 name: innovation-discovery
-description: First establish domain goals, consensus, objects of study, and evaluation criteria, then locate important gaps through relationships, actual processes, and feedback to propose testable product, research, or process innovations. Use when seeking differentiation, facing similar proposals, or revising repeatedly without progress. Not needed for polishing agreed copy or implementing an already specified feature.
+description: Start from domain consensus, audience needs, and existing work to define valuable final outputs, locate gaps, converge on innovation directions and core selling points, and connect them to concrete design and validation. Use for product or research positioning, proposal development, similar proposals, or repeated revisions without progress; not needed for polishing agreed copy or implementing an already specified feature.
 ---
 
 # Innovation Discovery
 
-First establish the domain foundations relevant to the task, then locate important gaps affecting the goal through key entities, relationships, and actual processes, and design operations that can change the outcome. Preserve the user's confirmed goals and constraints, and distinguish the current situation, hypotheses, and proposals.
+Find changes worth implementing whose effects can be explained and tested. Progress through domain foundations and human needs → final outputs → gaps in the current situation → design tradeoffs → core selling points and validation. Relationships and information flows are diagnostic tools; organize the final deliverable around what users gain.
 
-A few sentences suffice for simple problems; use diagrams or tables when relationships are complex. Think in the dependency order below and show the parts needed for the current discussion.
+## Identify the current level of discussion first
 
-## 1. Establish domain foundations
+Reuse confirmed goals, materials, assets, and decisions, and continue from the unresolved level. For open exploration, explore ideal outcomes from needs before discussing implementation difficulty. When asked to converge, actively compare and eliminate alternatives. Do not introduce local design, tool choices, or error-prevention details prematurely into exploration of value.
 
-Before analyzing innovation opportunities, establish existing domain knowledge and the main objects of study. Reuse reliable prior syntheses where possible; build the foundations first when the field is unfamiliar or the existing framework is incomplete. For clearly scoped questions, fill only gaps that affect judgment rather than repeating a literature review for every discussion.
+This is an internal reasoning order, not a sequence of requests for user approval. When information is sufficient, independently analyze, revise, and recommend within the authorized scope. Ask only for information that would materially change the choice and cannot be obtained from existing material. Apply only relevant parts to short questions; show the audience only the results needed for the current request.
 
-- **Goals and grounds for importance:** What practical problems does the field seek to solve, which outcomes and quality requirements matter, and why? Distinguish support from standards or consensus, common practice, individual research claims, and disputed views. Frequency in the literature or a high score in one paper does not automatically establish consensus.
-- **Task and boundaries:** What does the complete task involve, and what are its main variants, use contexts, and necessary conditions? Do not define it prematurely around existing products, project assets, or an anticipated solution.
-- **Main objects of study:** Enumerate objects affecting the task, their important properties, and adjustable factors. Examples include data, measurement targets, representations, algorithms, training processes, and evaluation targets; derive the actual categories from the field rather than imposing this example list.
-- **Relationships between objects:** Explain dependencies, mechanisms, constraints, and tradeoffs. Information flow is one analytical perspective; also consider relevant measurement errors, statistical relationships, algorithmic properties, resources, and physical conditions.
-- **Evaluation criteria:** How are individual objects and the overall task judged? Which have established reference points, and which assessments remain disputed? What evidence supports judgments about processes, outputs, and ultimate utility?
+## 1. Establish domain foundations for the actual task
 
-Build these foundations from standards or consensus documents, reviews, and representative studies; use project history for the specific context. State where sources apply. Do not treat reporting guidelines as proof of the best method or project-specific categories as accepted domain classifications. Cover the main objects relevant to the current task without endless enumeration; the inventory is not a checklist requiring work on every object.
+Understand the task, why it matters, how existing work approaches it, and how quality is judged. Reuse verified research and fill only gaps that would change important judgments.
 
-For interdisciplinary work, distinguish the underlying domain from the proposed system. For example, when studying an agent for a particular field, first map that field's tasks and objects, then explain the understanding, judgments, and actions assigned to the agent. Do not let agent architecture replace knowledge of the domain.
+- **Goals and value:** What problem does the field seek to solve? Why do people use this approach, and when do they choose alternatives? Distinguish people's ultimate wishes, outcomes the technology can directly change, and longer-term benefits still dependent on external conditions.
+- **Task paradigms:** Existing inputs, outputs, datasets or use contexts, methods, and evaluation approaches; similarities and differences among major approaches.
+- **Main objects and relationships:** Objects affecting results, adjustable factors, interactions, and constraints. Derive the inventory from the domain rather than imposing a fixed list or turning the inventory into a requirement to work on everything.
+- **Knowledge and evidence:** Distinguish consensus or standards, common practice, individual claims, disputes, and unknowns. Publication frequency, reporting guidelines, and isolated high scores cannot individually establish the best method or overall value.
 
-Create a concise picture of goals, objects, relationships, and evaluation. If important objects, the basis for value, or task boundaries remain unclear, clarify this layer before recommending a main innovation direction. Continue once the foundations have been confirmed, without adding item-by-item approval steps.
+For interdisciplinary tasks, treat the complete task as the unit of analysis. Examine the actual inputs, processing, outputs, and evaluation of closely related work while understanding the value of the underlying fields; avoid merely introducing each constituent field separately. Label direct evidence, ideas borrowed from adjacent fields, and your own inferences separately. Leave unreported or unread capabilities unknown.
 
-## 2. State the intended outcome
+## 2. Determine inputs and desired outcomes from audience needs
 
-Using existing context, explain who needs to accomplish what and what change would indicate improvement. Preserve resource constraints, reusable assets, and refuted assumptions that affect the choice of approach.
+Analyze the relevant direct operators, output users, accountable owners, buyers, or paper evaluators. Roles may overlap; no fixed team composition is required. Internally, you may organize:
 
-Check how a local output relates to the final goal. After a prediction, explanation, or processing result is obtained, what else must happen for the goal to be achieved? Cover these necessary steps in the analysis.
-
-## 3. Map current entities and information flows
-
-Move from the domain inventory to the actual process. List the entities involved in measurement, processing, judgment, and action in this context, then trace the information they need. Check whether any major objects from the previous stage have been omitted; include only relationships affecting the current task.
-
-- For people, organizations, systems, or models, record their tasks, information held and needed, and conditions for processing or using it.
-- For files, records, or data representations, record what they store, who produces and uses them, and what their representation preserves or loses.
-
-Connect these entities and describe each transfer:
-
-| Source entity | Information and its form | Receiving entity | What the recipient must accomplish with it | Actual situation and evidence |
+| Role or context | Desired change | Inputs and judgments they can provide | Outputs they want to obtain and use | Current difficulty and evidence |
 | --- | --- | --- | --- | --- |
 
-Follow how information is understood or processed after arrival and whether it leads to actual actions and results. Add a return path when later judgments require feedback. Mark unclear relationships for confirmation. Introduce new tools and roles when proposing solutions, stating the work they would perform.
+Describe needs in language the audience naturally cares about. Explain how performance, reliability, and convenience manifest in the specific context. Distinguish desired changes, ways to demonstrate them, and the resources and mechanisms that produce them.
 
-## 4. Express differences between intended and actual outcomes as gaps
+Consider enabling previously impossible work, improving existing results, and reducing labor and investment. Do not assume the audience already has all professional expertise or restrict value to saving skilled practitioners effort. Technology is a means; ask what the output actually does for people.
 
-At each step affecting the goal, compare what the recipient needs with what they actually receive. Check whether information exists, arrives in time, preserves key meaning, and supports the next step. Retain physical conditions, capability, resources, permissions, or motivation as actual causes when they also limit execution.
+Broadly collected needs support tradeoffs and prevent omissions and may be saved by task; do not directly expose the whole inventory as the deliverable. User examples are clues, not exhaustive categories.
 
-Describe suspected gaps concretely, for example:
+## 3. Define the final output before designing the system that produces it
 
-“An entity needs certain information to accomplish a task, but encounters a particular obstacle during transfer, transformation, or use, so an intended outcome does not occur.”
+Specify what users ultimately receive, how they use it, and why they value it. Models, reports, completed research, runnable software, and ongoing services can all be outputs; judge them by the capabilities and results they actually provide.
 
-Attach observations supporting the judgment. Where evidence is insufficient, retain it as a candidate cause. Correct understanding without the conditions to act calls for different changes from incorrect information.
+- Specify output content, quality attributes, and use, and check whether inputs support those outputs.
+- Envision the most valuable output first, then design the system, process, or team that produces it. Architecture, role counts, and tool lists cannot substitute for defining the output.
+- Clarify whether the deliverable is a plan, an executed result, or validated utility. When existing capabilities suffice to execute, do not downgrade the requested result to advice or a proposal.
+- Distinguish striking but difficult-to-attribute or reliably validate long-term outcomes from outputs suitable as core research claims; the former may serve as cases or extensions.
 
-Using the domain goals and evaluation criteria established earlier, compare gaps by their effects on the final outcome, distinguish important research problems from local maintenance details, and check for common causes. Repeated difficulties across steps may suggest a shared problem around which to develop solutions. If other obstacles remain after one gap is repaired, preserve them as conditions affecting the proposal's applicability.
+Open exploration may temporarily set implementation constraints aside. During convergence, check data, technology, collaboration, and external dependencies. Prefer narrowing scope or the level of commitment while retaining the most valuable change.
 
-## 5. Turn gaps into concrete changes
+## 4. Compare current approaches and assets to locate gaps that affect outputs
 
-Select gaps worth exploring. First identify the information or conditions needed for the next step to succeed. Then determine what existing sources and processing methods can provide and where changes are needed.
+Work backward from desired outputs to the strongest existing alternatives and completed project work. Check design records, code, run artifacts, and evaluation evidence separately. Preserve completion facts explicitly confirmed by the user; verify the interfaces or effects on which the current choice depends. Do not relist completed capabilities as innovations still to be built or infer mandatory needs from existing technical assets.
 
-Changes may affect how information is generated, represented, timed, or processed, how work is divided, or which feedback is retained for later use. Select changes according to the gap and express alternative solutions as operations:
+For important differences, ask what current methods achieve, how far the evidence extends, what remains missing, and whether changing it would materially affect the output. Distinguish capability limitations, result quality, applicability, resource burdens, and problems during use; do not reduce everything to budget, efficiency, or information transfer.
 
-- Who obtains what input, and from where.
-- How the input is processed, or which execution condition changes.
-- What result is produced, when, and for whom.
-- How the recipient uses it and which step it enables.
+When diagnosing causes, trace the actual process: who or what receives which inputs, makes which judgments or transformations, produces which results, and how these are delivered, used, and informed by feedback. Beyond information, check statistical properties, measurement error, execution capability, and physical and resource conditions. Retain this useful diagnostic formulation:
 
-Walk through the revised process using the specific situation that previously failed. Check whether the candidate explains why the outcome would change. If it still offers only effects such as “clearer,” “smarter,” or “stronger feedback,” continue specifying the operations.
+> An entity needs certain information or conditions to accomplish a task, but encounters a specific obstacle, so an intended outcome does not occur.
 
-The same gap may have different solutions. Compare the entities, connections, or processing they change to identify substantive differences. Generalize into an overall direction when several local changes address the same problem. Retain candidates requiring further research when their proposed operations are clear, identifying the new capabilities they depend on.
+Support causes with observations or sources; retain unverified explanations as hypotheses. Prioritize important problems affecting final value. Intermediate repair details may support design but usually do not merit separate selling points.
 
-## 6. Check benefits, costs, and evidence
+## 5. Converge from complete needs to a few coherent core capabilities
 
-Map existing technology and assets to specific changes, stating what can be reused and what requires new investment. Check whether information, permissions, and collaboration conditions are actually available. When participants must change their practices, explain what they gain and what they must contribute.
+Generate and compare substantively different candidates, then actively recommend. Converge on a few core selling points according to the request and task complexity, sufficient to express the necessary value rather than filling a quota.
 
-Compare against a reasonably strong existing approach under explicit conditions, accounting for the contributions and costs of extra information, resources, and steps. Check whether the candidate merely shifts difficulty downstream or adds information-processing burdens.
+For each candidate, assess:
 
-Identify observable outcomes that distinguish the candidate from existing approaches and findings that would invalidate the current explanation. Verify evidence when claiming performance or novelty; word predictions, proposals, and validated results accordingly. When results affect others' judgments or actions, explain the basis for verification and how errors are corrected.
+- **Importance:** What material change does it make to output quality, the range of possible work, or actual use?
+- **Distinctiveness:** What added benefit does it offer over strong alternatives? Does it duplicate other candidates or have a distinct observable effect?
+- **Coherence:** Do inputs, outputs, design, and evaluation connect? Does it shift difficulty to users or downstream participants?
+- **Feasibility:** What can be reused, and what new capabilities and critical dependencies are required? Do not treat historical assets as validated overall effectiveness.
 
-## 7. Revise from feedback and deliver what was requested
+Merge synonymous candidates or those sharing a cause. Separate core benefits, supporting mechanisms, basic requirements, and future directions. More features, materials, or technical complexity do not automatically create value. Explain how existing assets participate in actual selection, execution, and result improvement; list them separately only when they have independent utility.
 
-When challenged, return to the specific entity or relationship and identify whether the error concerns domain foundations, coverage of objects, the current situation, the explanation of the gap, the mechanism of change, or its conditions. Update that part while preserving other confirmed content. If repeated revisions make no progress, check for omitted entities or necessary steps.
+Check for missing foundational capabilities. Follow actual use to identify necessary steps in obtaining outputs, viewing information, understanding evidence, acting, and updating through feedback. Do not omit basic capabilities on which advanced features depend; determine coverage from the current task.
 
-At delivery, explain the key gap, candidate operations, expected benefits, and important unknowns. When seeking selling points, express benefits as claims users can readily understand. When discussing research contributions, retain the problem, mechanism, and distinguishable outcomes. When assembling a full proposal, check relevant entities, information directions, actions, and subsequent connections.
+Overall value and its supporting key capabilities may be layered, but explain the levels to avoid repeating one benefit under different names. Product selling points may derive from integration and ease of use; scientific innovation additionally requires substantive differences from prior methods.
 
-For the method's origins or a complete example, read [Discussion case and transfer boundaries](references/discussion-case.md). Agreement in discussion establishes consensus; actual effects still require evidence.
+## 6. Establish design and validation grounds for every retained capability
+
+Maintain an internally traceable mapping:
+
+> Need or basis for value → final output or capability → concrete design and existing assets → observable change → comparison and evaluation.
+
+Specify where inputs come from, what is done to them, what results are produced, how they are actually used, and how feedback informs adjustments. If the description merely says “smarter” or “better collaboration,” specify the behavior further. There is no need to move prematurely into code, tool selection, or scheduling.
+
+Validate outcomes and process quality using domain-accepted criteria proportionate to the claim. When claiming reduced labor, easier use, or expanded capabilities, evaluate those actual benefits. Compare against reasonably strong existing work, mature tools, or alternatives with equivalent resources. Distinguish whole-product comparisons from controlled mechanism comparisons. Report failures, scope, and extra human and computational effort rather than substituting selected success cases for overall effectiveness.
+
+Reuse credible evaluation where possible. Fill genuine gaps with tasks, references, scoring procedures, and grounds for validity rather than inventing a score for every internal judgment. Internal priorities or confidence estimates are part of method design; attribution can use mechanism replacement or ablation with the same external outcomes.
+
+Identify findings that would overturn a candidate's claimed advantage. Actual effects, methodological novelty, and user acceptance each need corresponding evidence. Practical value may remain even when scientific contribution is not yet established.
+
+## 7. Express retained capabilities as selling points the audience understands
+
+Needs explain why the work matters; selling points state the capabilities and outputs provided; design explains implementation; evaluation explains proof. Show these levels according to the user's needs rather than packing the whole analysis into promotional sentences.
+
+- **Lead with a direct claim.** Use an action plus a valuable output or capability and necessary quality attributes. Avoid unconfirmed assumptions about user capabilities or motives; preserve actual applicability in the task description.
+- **Unpack qualifiers.** For each quality or capability qualifier, specify the work covered, output properties, or observable behavior. Help readers imagine what they receive and how they use it.
+- **Use outcome language the audience cares about.** Explain abstract advantages as concrete utility and comparable quality attributes in the current task; describe technical assets through their contribution. Avoid merely intensifying adjectives or treating evidence methods as human needs.
+- **Preserve evidence strength.** Distinguish design goals, untested hypotheses, implemented capabilities, and measured advantages. Claims about effects and comparisons require corresponding evidence. Describe content concretely and affirmatively without burying the claim in defensive negatives.
+
+Usually deliver a few recommended selling points and their concrete meanings first, then supply corresponding design, validation, and necessary tradeoffs as requested. When asked only for selling points, do not repeat all research or a full inventory of foundational capabilities.
+
+## 8. Independently check and revise
+
+Before delivery, check from the perspective of an audience uninvolved in the discussion:
+
+- Is the core of the complete task preserved, rather than drifting into an underlying field, a tool, or a local review activity?
+- Are the final output and actual use clear, with the field's most basic effectiveness and quality requirements preserved?
+- Does each item have a distinct role, concrete meaning, corresponding design, and validation path? What would be lost by removing it?
+- Have foundational assets, internal scores, or minor maintenance changes been packaged as selling points? Are basic capabilities in the use process missing?
+- Have unconfirmed assumptions about user capabilities, motives, or behavior been added? Can terminology be explained through concrete outputs?
+
+When challenged, identify whether the error lies in domain foundations, target outputs, audience assumptions, gaps, mechanisms, scope, or expression. Revise the faulty level while preserving confirmed content; do not merely change wording, switch audiences, or append features. Use existing material fully for the next revision without waiting for the user to identify each similar problem. Deliver once recommendations are concrete, coherent, and testable, retaining unknowns that genuinely affect the choice and avoiding endless expansion.

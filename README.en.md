@@ -2,6 +2,12 @@
 
 ## Update history
 
+### 2026-11-19 (America/New_York) · Updated innovation-discovery
+
+- Start from domain consensus and audience needs, define valuable final outputs, then compare existing approaches and project assets to locate important gaps.
+- Actively compare alternatives and converge on a few coherent capabilities and selling points, linked to concrete design, strong comparisons, and testable outcomes.
+- Added audience-focused selling-point guidance and independent revision checks. Updated both editions and invocation prompts; removed the old discussion case no longer included in the source skill.
+
 ### 2026-11-18 (America/New_York) · Updated innovation-discovery
 
 Added domain foundations: establish goals, consensus, objects of study, relationships, and evaluation criteria before locating important gaps. Distinguish the domain task from the proposed system, avoiding premature constraints from existing assets or anticipated solutions. Updated both skill editions and invocation prompts.

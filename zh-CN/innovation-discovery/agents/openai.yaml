@@ -1,4 +1,4 @@
 interface:
   display_name: "创新探索"
-  short_description: "先建立领域目标、共识、对象与评价基础，再从具体缺口寻找可验证的创新方向"
-  default_prompt: "使用 $innovation-discovery，先梳理领域目标、重要性共识、主要研究对象及评价依据，再分析对象关系和实际过程中的重要缺口，提出具体、可验证的新方案。"
+  short_description: "从领域与受众需求定义成果，结合现状收敛核心卖点，并对应具体设计与验证"
+  default_prompt: "使用 $innovation-discovery，结合已有领域调研、受众需求和项目资产，先明确最有价值的最终产出，再自主比较取舍，提炼少数自洽的核心卖点及对应设计和验证方式。"
