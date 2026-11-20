@@ -1,5 +1,58 @@
 [简体中文](README.md) | **English**
 
+## Install with one message
+
+Copy this message into Codex to ask it to install the English edition of reader-first-writing:
+
+```text
+Use $skill-installer to install en/reader-first-writing from the GitHub repository iceshade000/task-alignment.
+```
+
+Want all four? Copy this message:
+
+```text
+Use $skill-installer to install these four English skills from the GitHub repository iceshade000/task-alignment: en/task-alignment, en/reader-first-writing, en/paper-reading, and en/innovation-discovery. Skip any that are already installed.
+```
+
+After installation, use them in your next message. Choose either the English or Chinese edition of each skill; see the [Chinese README](README.md) for Chinese installation instructions.
+
+## Which skill should I use?
+
+| Skill | When to use it |
+| --- | --- |
+| [task-alignment](en/task-alignment/SKILL.md) | Align goals, deliverables, and execution plans when a task is complex, ambiguous, or drifting. |
+| [reader-first-writing](en/reader-first-writing/SKILL.md) | Organize answers and articles around reader questions when writing is confusing, repetitive, or heavy on jargon. |
+| [paper-reading](en/paper-reading/SKILL.md) | Close-read papers or compare studies, explaining the authors' arguments, methods, and experimental evidence. The English edition translates non-English passages into English when needed. |
+| [innovation-discovery](en/innovation-discovery/SKILL.md) | Develop product, research, or proposal ideas from audience needs, converging on valuable outputs, core selling points, and validation. |
+
+## Usage examples
+
+After installation, send any of these messages to Codex with your task or materials:
+
+```text
+Use $task-alignment to help me align this project's goals, expected deliverables, and execution plan first.
+```
+
+```text
+Use $reader-first-writing to revise the following text so someone who was not part of our discussion can understand it.
+```
+
+```text
+Use $paper-reading to closely review this paper and explain its problem, methods, training process, and experimental evidence.
+```
+
+```text
+Use $innovation-discovery with these needs and existing outputs to propose a few distinctive core selling points and ways to validate them.
+```
+
+## Update installed skills
+
+When you want an update, send this message to Codex:
+
+```text
+Check the en directory in the GitHub repository iceshade000/task-alignment and update the skills I previously installed from it to their latest versions. Compare local differences first; preserve my custom changes and report conflicts rather than overwriting them.
+```
+
 ## Update history
 
 ### 2026-11-20 · Updated reader-first-writing and innovation-discovery

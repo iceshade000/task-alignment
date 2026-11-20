@@ -1,5 +1,58 @@
 **简体中文** | [English](README.en.md)
 
+## 一句话安装
+
+复制下面这句话，发送给 Codex，即可请它安装中文版 reader-first-writing：
+
+```text
+请使用 $skill-installer，从 GitHub 仓库 iceshade000/task-alignment 安装 zh-CN/reader-first-writing。
+```
+
+想一次装齐四个？复制这句话：
+
+```text
+请使用 $skill-installer，从 GitHub 仓库 iceshade000/task-alignment 安装以下四个中文版 skill：zh-CN/task-alignment、zh-CN/reader-first-writing、zh-CN/paper-reading、zh-CN/innovation-discovery。已安装的先跳过。
+```
+
+安装完成后，在下一条消息中使用。中英文版选一种安装即可；英文版安装方式见 [English README](README.en.md)。
+
+## 选哪个 skill？
+
+| Skill | 适合什么时候用 |
+| --- | --- |
+| [task-alignment](zh-CN/task-alignment/SKILL.md) | 任务复杂、要求模糊或合作跑偏时，先对齐目标、成果和执行计划。 |
+| [reader-first-writing](zh-CN/reader-first-writing/SKILL.md) | 回答或文章绕、难懂、术语多时，按读者的问题组织表达。 |
+| [paper-reading](zh-CN/paper-reading/SKILL.md) | 精读论文或比较多篇文献，讲清作者论证、方法和实验依据；中文版含所需的中文翻译。 |
+| [innovation-discovery](zh-CN/innovation-discovery/SKILL.md) | 构思产品、研究或 proposal，从受众需求出发收敛有价值的成果、核心卖点和验证方式。 |
+
+## 使用示例
+
+安装后，把下面任一句发给 Codex，并附上你的任务或材料：
+
+```text
+使用 $task-alignment，先帮我对齐这个项目的目标、预期成果和执行计划。
+```
+
+```text
+使用 $reader-first-writing，修改下面这段文字，让没参与过讨论的读者也能看懂。
+```
+
+```text
+使用 $paper-reading，精读这篇论文，讲清问题、方法、训练过程和实验依据。
+```
+
+```text
+使用 $innovation-discovery，结合这些需求和已有成果，提出少数有区分度的核心卖点及验证方式。
+```
+
+## 更新已安装的 skill
+
+需要更新时，把这句话发给 Codex：
+
+```text
+请检查 GitHub 仓库 iceshade000/task-alignment 的 zh-CN 目录，将我已从该仓库安装的 skill 更新到最新版本。先比较本地差异；如有我的自定义修改，保留并告知冲突，不要直接覆盖。
+```
+
 ## 版本更新记录
 
 ### 2026-11-20 · 更新 reader-first-writing 与 innovation-discovery
