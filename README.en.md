@@ -2,6 +2,13 @@
 
 ## Update history
 
+### 2026-11-20 · Updated reader-first-writing and innovation-discovery
+
+- reader-first-writing: State the audience's most important benefit directly in the summary, organize supporting material around reader questions, and retain necessary conditions and evidence.
+- innovation-discovery: Assess multiple output-quality dimensions, ground evaluation procedures in prior research, and refine design and validation together. Strengthened core-value expression and revision of recurring problems.
+
+Updated both language editions.
+
 ### 2026-11-19 · Updated reader-first-writing
 
 > Author's note: If it doesn't work on GPT6.2 Astra, switch back to GPT6. 6.2 is too stubborn—it just won't follow the skill.

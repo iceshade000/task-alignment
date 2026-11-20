@@ -2,6 +2,13 @@
 
 ## 版本更新记录
 
+### 2026-11-20 · 更新 reader-first-writing 与 innovation-discovery
+
+- reader-first-writing：把受众最在意的收益直接写进提炼句，按读者问题组织支撑内容，保留必要条件与依据。
+- innovation-discovery：补充成果的多维质量判断，依据已有研究细化评价规则，让设计与验证相互校正；强化核心价值表达和同类问题修订。
+
+中英文版本同步更新。
+
 ### 2026-11-19 · 更新 reader-first-writing
 
 > 作者提醒：如果GPT6.2 Astra上无效请切回GPT6，6.2太犟了根本不听skill的
